@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sho0shh
-- 🌱 I’m currently studying to be a SOC Analyst 
+Welcome to my GitHub repository! I'm Jesse, a budding cyber security enthusiast currently preparing to start formal studies in this exciting field.
+Here, I document and showcase my independent projects and learning journey as I delve deeper into the realm of cybersecurity.
+
+My primary goal is to develop practical skills in cybersecurity while awaiting the commencement of my formal studies. Through these projects, I aim to:
+Gain hands-on experience in specific areas of interest, e.g., network security, ethical hacking, cryptography.
+Strengthen my understanding of specific technologies or tools, e.g., penetration testing frameworks, encryption algorithms.
+Build a portfolio that reflects my capabilities and growth in the field.
 
 
-<!---
-sho0shh/sho0shh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
