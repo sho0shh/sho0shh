@@ -1,9 +1,102 @@
-Welcome to my GitHub repository! I'm Jesse, a budding cyber security enthusiast currently preparing to start formal studies in this exciting field.
-Here, I document and showcase my independent projects and learning journey as I delve deeper into the realm of cybersecurity.
+# Hello, I'm Jesse
+I will be adding my Linkedin profile on the next update
 
-My primary goal is to develop practical skills in cybersecurity while awaiting the commencement of my formal studies. Through these projects, I aim to:
-Gain hands-on experience in specific areas of interest, e.g., network security, ethical hacking, cryptography.
-Strengthen my understanding of specific technologies or tools, e.g., penetration testing frameworks, encryption algorithms.
-Build a portfolio that reflects my capabilities and growth in the field.
+I am a current student with a profound interest in technology and a dedication to solving complex problems.
+
+## Objective
+My interest in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         |
+|-----------------------------------------------|
+| Built a home SIEM lab
+| SIEM Implementation and Log Analysis  
+| Malware detection independant project on VM
+
+## Tools
+
+## Network
+ [Wireshark](https://www.wireshark.org/) for network traffic analysis and troubleshooting. It's an invaluable tool in understanding network protocols and security issues.
+
+## Endpoint
+[Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/microsoft-365/defender/endpoints) for advanced endpoint protection, threat detection, and response capabilities.
+
+## SIEM
+[Splunk](https://www.splunk.com/) for log management, real-time monitoring, and data analysis.
+
+
+## Certifications
+
+## Cyber Security Certification
+
+I am currently pursuing the [Institute of Data Cyber Security Certificate](https://www.institutedata.com.au/cyber-security-certification/), which provides comprehensive training in cybersecurity principles and practices.
+
+I am preparing myself for the [CompTIA A+ Certification](https://www.comptia.org/certifications/a) to establish a solid foundation in IT skills and knowledge. Expected early 2025
+
+
+## Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
